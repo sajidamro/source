@@ -1,0 +1,107 @@
+
+Size of the Matrix, 2 x 2 
+Sequential Multiplication took TIME in Seconds:, 0.000002 
+OpenMP Multiplication took TIME in Seconds:, 0.001888 , Number of Threads:, 2
+OpenMP Multiplication took TIME in Seconds:, 0.005384 , Number of Threads:, 3
+OpenMP Multiplication took TIME in Seconds:, 0.021832 , Number of Threads:, 4
+OpenMP Multiplication took TIME in Seconds:, 0.007131 , Number of Threads:, 5
+OpenMP Multiplication took TIME in Seconds:, 0.042426 , Number of Threads:, 6
+OpenMP Multiplication took TIME in Seconds:, 0.027858 , Number of Threads:, 7
+OpenMP Multiplication took TIME in Seconds:, 0.075469 , Number of Threads:, 8
+Size of the Matrix, 4 x 4 
+Sequential Multiplication took TIME in Seconds:, 0.000003 
+OpenMP Multiplication took TIME in Seconds:, 0.005845 , Number of Threads:, 2
+OpenMP Multiplication took TIME in Seconds:, 0.003639 , Number of Threads:, 3
+OpenMP Multiplication took TIME in Seconds:, 0.005174 , Number of Threads:, 4
+OpenMP Multiplication took TIME in Seconds:, 0.006102 , Number of Threads:, 5
+OpenMP Multiplication took TIME in Seconds:, 0.008976 , Number of Threads:, 6
+OpenMP Multiplication took TIME in Seconds:, 0.028035 , Number of Threads:, 7
+OpenMP Multiplication took TIME in Seconds:, 0.020665 , Number of Threads:, 8
+Size of the Matrix, 8 x 8 
+Sequential Multiplication took TIME in Seconds:, 0.000009 
+OpenMP Multiplication took TIME in Seconds:, 0.003896 , Number of Threads:, 2
+OpenMP Multiplication took TIME in Seconds:, 0.004921 , Number of Threads:, 3
+OpenMP Multiplication took TIME in Seconds:, 0.007306 , Number of Threads:, 4
+OpenMP Multiplication took TIME in Seconds:, 0.008671 , Number of Threads:, 5
+OpenMP Multiplication took TIME in Seconds:, 0.017588 , Number of Threads:, 6
+OpenMP Multiplication took TIME in Seconds:, 0.016693 , Number of Threads:, 7
+OpenMP Multiplication took TIME in Seconds:, 0.015308 , Number of Threads:, 8
+Size of the Matrix, 16 x 16 
+Sequential Multiplication took TIME in Seconds:, 0.000053 
+OpenMP Multiplication took TIME in Seconds:, 0.006684 , Number of Threads:, 2
+OpenMP Multiplication took TIME in Seconds:, 0.005557 , Number of Threads:, 3
+OpenMP Multiplication took TIME in Seconds:, 0.010658 , Number of Threads:, 4
+OpenMP Multiplication took TIME in Seconds:, 0.007036 , Number of Threads:, 5
+OpenMP Multiplication took TIME in Seconds:, 0.012812 , Number of Threads:, 6
+OpenMP Multiplication took TIME in Seconds:, 0.031691 , Number of Threads:, 7
+OpenMP Multiplication took TIME in Seconds:, 0.037135 , Number of Threads:, 8
+Size of the Matrix, 32 x 32 
+Sequential Multiplication took TIME in Seconds:, 0.000442 
+OpenMP Multiplication took TIME in Seconds:, 0.005405 , Number of Threads:, 2
+OpenMP Multiplication took TIME in Seconds:, 0.009856 , Number of Threads:, 3
+OpenMP Multiplication took TIME in Seconds:, 0.011239 , Number of Threads:, 4
+OpenMP Multiplication took TIME in Seconds:, 0.018056 , Number of Threads:, 5
+OpenMP Multiplication took TIME in Seconds:, 0.021261 , Number of Threads:, 6
+OpenMP Multiplication took TIME in Seconds:, 0.014544 , Number of Threads:, 7
+OpenMP Multiplication took TIME in Seconds:, 0.017239 , Number of Threads:, 8
+Size of the Matrix, 64 x 64 
+Sequential Multiplication took TIME in Seconds:, 0.003915 
+OpenMP Multiplication took TIME in Seconds:, 0.012945 , Number of Threads:, 2
+OpenMP Multiplication took TIME in Seconds:, 0.008504 , Number of Threads:, 3
+OpenMP Multiplication took TIME in Seconds:, 0.013262 , Number of Threads:, 4
+OpenMP Multiplication took TIME in Seconds:, 0.011249 , Number of Threads:, 5
+OpenMP Multiplication took TIME in Seconds:, 0.014116 , Number of Threads:, 6
+OpenMP Multiplication took TIME in Seconds:, 0.013381 , Number of Threads:, 7
+OpenMP Multiplication took TIME in Seconds:, 0.013292 , Number of Threads:, 8
+Size of the Matrix, 128 x 128 
+Sequential Multiplication took TIME in Seconds:, 0.044857 
+OpenMP Multiplication took TIME in Seconds:, 0.033372 , Number of Threads:, 2
+OpenMP Multiplication took TIME in Seconds:, 0.052898 , Number of Threads:, 3
+OpenMP Multiplication took TIME in Seconds:, 0.034693 , Number of Threads:, 4
+OpenMP Multiplication took TIME in Seconds:, 0.032759 , Number of Threads:, 5
+OpenMP Multiplication took TIME in Seconds:, 0.032550 , Number of Threads:, 6
+OpenMP Multiplication took TIME in Seconds:, 0.023687 , Number of Threads:, 7
+OpenMP Multiplication took TIME in Seconds:, 0.027171 , Number of Threads:, 8
+Size of the Matrix, 256 x 256 
+Sequential Multiplication took TIME in Seconds:, 0.366021 
+OpenMP Multiplication took TIME in Seconds:, 0.188000 , Number of Threads:, 2
+OpenMP Multiplication took TIME in Seconds:, 0.197539 , Number of Threads:, 3
+OpenMP Multiplication took TIME in Seconds:, 0.205141 , Number of Threads:, 4
+OpenMP Multiplication took TIME in Seconds:, 0.148557 , Number of Threads:, 5
+OpenMP Multiplication took TIME in Seconds:, 0.151961 , Number of Threads:, 6
+OpenMP Multiplication took TIME in Seconds:, 0.165584 , Number of Threads:, 7
+OpenMP Multiplication took TIME in Seconds:, 0.170718 , Number of Threads:, 8
+Size of the Matrix, 512 x 512 
+Sequential Multiplication took TIME in Seconds:, 2.582806 
+OpenMP Multiplication took TIME in Seconds:, 1.378480 , Number of Threads:, 2
+OpenMP Multiplication took TIME in Seconds:, 1.148354 , Number of Threads:, 3
+OpenMP Multiplication took TIME in Seconds:, 1.055871 , Number of Threads:, 4
+OpenMP Multiplication took TIME in Seconds:, 1.066338 , Number of Threads:, 5
+OpenMP Multiplication took TIME in Seconds:, 1.031915 , Number of Threads:, 6
+OpenMP Multiplication took TIME in Seconds:, 1.039566 , Number of Threads:, 7
+OpenMP Multiplication took TIME in Seconds:, 1.018879 , Number of Threads:, 8
+Size of the Matrix, 1024 x 1024 
+Sequential Multiplication took TIME in Seconds:, 28.649326 
+OpenMP Multiplication took TIME in Seconds:, 16.965719 , Number of Threads:, 2
+OpenMP Multiplication took TIME in Seconds:, 12.518339 , Number of Threads:, 3
+OpenMP Multiplication took TIME in Seconds:, 11.790145 , Number of Threads:, 4
+OpenMP Multiplication took TIME in Seconds:, 10.951757 , Number of Threads:, 5
+OpenMP Multiplication took TIME in Seconds:, 10.844995 , Number of Threads:, 6
+OpenMP Multiplication took TIME in Seconds:, 10.763143 , Number of Threads:, 7
+OpenMP Multiplication took TIME in Seconds:, 10.684692 , Number of Threads:, 8
+Size of the Matrix, 2048 x 2048 
+Sequential Multiplication took TIME in Seconds:, 235.317128 
+OpenMP Multiplication took TIME in Seconds:, 132.006147 , Number of Threads:, 2
+OpenMP Multiplication took TIME in Seconds:, 105.257997 , Number of Threads:, 3
+OpenMP Multiplication took TIME in Seconds:, 96.325372 , Number of Threads:, 4
+OpenMP Multiplication took TIME in Seconds:, 99.192776 , Number of Threads:, 5
+OpenMP Multiplication took TIME in Seconds:, 103.174597 , Number of Threads:, 6
+OpenMP Multiplication took TIME in Seconds:, 97.122749 , Number of Threads:, 7
+OpenMP Multiplication took TIME in Seconds:, 96.969520 , Number of Threads:, 8
+Size of the Matrix, 4096 x 4096 
+Sequential Multiplication took TIME in Seconds:, 1854.529021 
+OpenMP Multiplication took TIME in Seconds:, 1072.559703 , Number of Threads:, 2
+OpenMP Multiplication took TIME in Seconds:, 878.957948 , Number of Threads:, 3
+OpenMP Multiplication took TIME in Seconds:, 799.300636 , Number of Threads:, 4
+OpenMP Multiplication took TIME in Seconds:, 8825.420931 , Number of Threads:, 5
+OpenMP Multiplication took TIME in Seconds:, 802.956940 , Number of Threads:, 6
